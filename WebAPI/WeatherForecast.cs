@@ -10,6 +10,6 @@ namespace WebAPI
 
         public string? Summary { get; set; }
 
-        public int TryOut { get; set; }
+        public int Pilot { get; set; }
     }
 }
